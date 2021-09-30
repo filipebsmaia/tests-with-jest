@@ -1,7 +1,8 @@
+> Modelo utilizado na tech-session para a @fluketmc
+
 # Testes unitários no backend com Jest
 
 Jest é um poderoso Framework de Testes em JavaScript com um foco na simplicidade.
-
 Funciona com projetos usando: Babel, TypeScript, Node, React, Angular, Vue e outros!
 
 ## Por que Jest
