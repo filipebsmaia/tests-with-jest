@@ -4,10 +4,6 @@ Jest é um poderoso Framework de Testes em JavaScript com um foco na simplicidad
 
 Funciona com projetos usando: Babel, TypeScript, Node, React, Angular, Vue e outros!
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
 ## Por que Jest
 
 ### zero configuração
@@ -25,10 +21,6 @@ Os testes são paralelos e executados em seus próprios processos para maximizar
 ### api excelente
 
 De it para expect - Jest tem todo o conjunto de ferramentas em um só lugar. Bem documentado e mantido.
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Comunidade
 https://jestjs.io/pt-BR/docs/jest-community
